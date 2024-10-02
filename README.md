@@ -36,7 +36,7 @@ Here are the topics we currently include in the plan:
 
 | Week | Topic                        | Extra                    |
 | ---- | ---------------------------- | ------------------------ |
-| 0    | Environment & Big O Notation | Math                     |
+| 0    | [Environment](/week1/week1-env.md) & Big O Notation | Math                     |
 | 1    | Arrays and strings           | Bit manipulation         |
 | 2    | Hashing                      | Disjoint data structures |
 | 3    | Linked lists                 | Dijkstra's shortest path |
