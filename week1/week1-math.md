@@ -1,9 +1,5 @@
 # Week1 - Math & Basic Logic
 
-## Videos/Instructions
-
-
-
 ## Practices
 
 * [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
