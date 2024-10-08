@@ -36,8 +36,8 @@ Here are the topics we currently include in the plan:
 
 | Week | Topic                        | Extra                    |
 | ---- | ---------------------------- | ------------------------ |
-| 0    | [Environment](/week1/week1-env.md) & [Big O Notation](/week1/week1-bigo.md) | [Math](/week1/week1-math.md) |
-| 1    | Arrays and strings           | Bit manipulation         |
+| 0    | [Environment](/week1/week1_env.md) & [Big O Notation](/week1/week1_bigo.md) | [Math](/week1/week1_math.md) |
+| 1    | [Arrays and strings](/week2/week2_arrays_string.md) | [Bit manipulation](/week2/week2_bit_manipulation.md) |
 | 2    | Hashing                      | Disjoint data structures |
 | 3    | Linked lists                 | Dijkstra's shortest path |
 | 4    | Stacks and queues            | BFS, DFS                 |
